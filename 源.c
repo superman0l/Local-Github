@@ -46,4 +46,5 @@ int main() {
 	for (i = 99; B[i] == '0'; i--);
 	for (; i >= 0; i--)
 		printf("%c", B[i]);
+return 0;
 }
